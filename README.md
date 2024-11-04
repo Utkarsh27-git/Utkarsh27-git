@@ -1,5 +1,3 @@
-Here’s an updated version with your achievements and the DevOps skills added:
-
 ---
 
 <img align="right" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyfyGCAb7soD6qGGf6aUrAnJCHFf-Xt1H2YXao-Msa9lL1Qi5I" width="400" height="250" alt="Coding GIF">
