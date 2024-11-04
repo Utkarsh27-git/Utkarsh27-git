@@ -1,7 +1,7 @@
 <img align="right" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyfyGCAb7soD6qGGf6aUrAnJCHFf-Xt1H2YXao-Msa9lL1Qi5I" width="400" height="250" alt="Coding GIF">
 
 # Hi, I'm Utkarsh Solanki 👋  
-*Computer Science Student | Full-Stack Developer | Competitive Programmer*
+*Computer Science | Full-Stack Developer | Competitive Programmer | Software Developer*
 
 ![Visitors](https://komarev.com/ghpvc/?username=Utkarsh27-git&color=green)
 
