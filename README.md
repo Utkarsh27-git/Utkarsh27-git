@@ -1,3 +1,7 @@
+Here’s an updated version with your achievements and the DevOps skills added:
+
+---
+
 <img align="right" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyfyGCAb7soD6qGGf6aUrAnJCHFf-Xt1H2YXao-Msa9lL1Qi5I" width="400" height="250" alt="Coding GIF">
 
 # Hi, I'm Utkarsh Solanki 👋  
@@ -18,6 +22,7 @@ I am a recent Computer Science graduate from Lovely Professional University with
 - [Projects](#projects)
 - [Experience](#experience)
 - [Training](#training)
+- [Achievements](#achievements)
 - [Currently Learning](#currently-learning)
 - [How to Reach Me](#how-to-reach-me)
 - [GitHub Stats](#github-stats)
@@ -25,6 +30,7 @@ I am a recent Computer Science graduate from Lovely Professional University with
 ---
 
 ## 🔧 Technical Skills
+
 - *Programming Languages*:  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -36,6 +42,11 @@ I am a recent Computer Science graduate from Lovely Professional University with
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+- *DevOps*:  
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-0067A3?style=flat&logo=github-actions&logoColor=white)
 
 - *Tools*:  
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
@@ -67,12 +78,19 @@ I am a recent Computer Science graduate from Lovely Professional University with
 
 ---
 
+## 🏆 Achievements
+- Solved over **600+ questions** on LeetCode and GeeksforGeeks.
+- Earned the title of **Knight** on LeetCode.
+- Ranked **Top 3** in NMTC (National Mathematics Talent Contest).
+
+---
+
 ## 🌱 Currently Learning
 - Advanced backend development and system design for scalable web applications.
 
 ---
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 - *Email*: [solankiutkarsh89@gmail.com](mailto:solankiutkarsh89@gmail.com)
 - *LinkedIn*: [Utkarsh Solanki](https://www.linkedin.com/in/utkarsh-solanki-5606a81b7/)
 - *GitHub*: [Utkarsh27-git](https://github.com/Utkarsh27-git)
