@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Profile Summary
-I am a final-year Computer Science student at Lovely Professional University with a strong foundation in full-stack development and algorithmic problem-solving. I have hands-on experience with the MERN stack (MongoDB, Express.js, React.js, Node.js) and a solid grasp of Data Structures and Algorithms. I’m passionate about building scalable web applications and optimizing performance across platforms.
+I am a recent Computer Science graduate from Lovely Professional University with a strong foundation in full-stack development and algorithmic problem-solving. I have hands-on experience with the MERN stack (MongoDB, Express.js, React.js, Node.js) and a solid grasp of Data Structures and Algorithms. I am passionate about building scalable web applications and optimizing performance across platforms.
 
 ---
 
